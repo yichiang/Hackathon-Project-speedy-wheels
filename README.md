@@ -35,6 +35,11 @@ operator: "senior bus"
 }
 ]
 ```
-! [View](/images/1.png)
-! [View](/images/2.png)
-! [View](/images/3.png)
+Home Page View
+![View](/images/4.png)
+Home Page View - Result
+![View](/images/1.png)
+Home Page View - 2
+![View](/images/2.png)
+Home Page View - Sticky Sidebar & Header
+![View](/images/3.png)
